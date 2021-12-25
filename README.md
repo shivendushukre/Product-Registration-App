@@ -31,11 +31,11 @@ installing all required packages which are present in requirement.txt:
 </details>
 
 ## User Interface of the platform:
-#### 1) Register
-![Login](./screenshots/register.jpg)
+### 1) Register
+![Register](./screenshots/register.jpg)
 
 ### 2) Login
-![Instructions](./screenshots/login.jpg)
+![Login](./screenshots/login.jpg)
 
 ### 3) Add Product
-![Spin the Wheel](./screenshots/add_product.jpg)
+![product](./screenshots/add_product.jpg)
