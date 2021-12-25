@@ -1,0 +1,8 @@
+venv
+routers/__pycache__
+products/__pycache__
+users/__pycache__
+assignment/__pycache__
+products/__init.py__
+assignment/__init.py__
+users/__init.py__
