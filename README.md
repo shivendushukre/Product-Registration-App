@@ -1,4 +1,4 @@
-# Tradexa-Assignment
+# Product Registration App
 
 ## Steps to run the project:
 	
